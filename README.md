@@ -1,7 +1,7 @@
 # Home Network Threat Hunting Lab
 
 ## Overview
-Built a SOC-style monitoring lab using Pi-hole and Suricata IDS.
+Built a SOC style monitoring lab using Pi-hole and Suricata IDS.
 
 ## Tools
 - Ubuntu
@@ -19,8 +19,8 @@ Generated alerts using:
 curl http://testmyids.com
 
 ## Skills Demonstrated
-- Network Security
-- IDS Monitoring
-- DNS Analysis
-- Linux Administration
-- Threat Hunting
+ Network Security
+ IDS Monitoring
+ DNS Analysis
+ Linux Administration
+ Threat Hunting
