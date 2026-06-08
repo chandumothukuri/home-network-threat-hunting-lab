@@ -1,2 +1,26 @@
-# home-network-threat-hunting-lab
-Home Network Threat Hunting Lab using Pi-hole and Suricata IDS for DNS monitoring, intrusion detection, and security event analysis.
+# Home Network Threat Hunting Lab
+
+## Overview
+Built a SOC-style monitoring lab using Pi-hole and Suricata IDS.
+
+## Tools
+- Ubuntu
+- Pi-hole
+- Suricata IDS
+
+## Features
+- DNS monitoring
+- Domain blocking
+- Alert generation
+- Threat hunting
+
+## Testing
+Generated alerts using:
+curl http://testmyids.com
+
+## Skills Demonstrated
+- Network Security
+- IDS Monitoring
+- DNS Analysis
+- Linux Administration
+- Threat Hunting
